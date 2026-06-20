@@ -173,4 +173,4 @@ Open http://localhost:5173 in two browser windows to test multiplayer.
    - Publish dir: `dist`
    - Add env var: `VITE_SERVER_URL`
 
-Live URL: **https://your-skribbl-clone.onrender.com**
+Live URL: **https://skriblefrontend.netlify.app**
